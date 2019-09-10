@@ -1,5 +1,11 @@
 hello world
 hello me
 hello you
+<<<<<<< HEAD
 first branch x 
 second branch x 
+=======
+first branch y
+second branch y
+third branch y
+>>>>>>> y
