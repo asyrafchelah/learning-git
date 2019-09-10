@@ -1,12 +1,9 @@
 hello world
 hello me
 hello you
-<<<<<<< HEAD
 first branch x 
 second branch x 
 first branch y
 second branch y
 third branch y
-=======
 first branch z
->>>>>>> 44db3d6f14d0f2c99c14be9038428f334b65442f
